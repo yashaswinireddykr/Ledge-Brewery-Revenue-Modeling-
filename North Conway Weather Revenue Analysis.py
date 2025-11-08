@@ -3,7 +3,6 @@
 """
 North Conway Weather Revenue Analysis
 Created on Sat Apr 12 18:59:35 2025
-@author: Vijay Chandra Atheli
 """
 
 import pandas as pd
