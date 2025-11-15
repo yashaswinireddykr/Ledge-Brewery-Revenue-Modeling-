@@ -221,4 +221,5 @@ print(model.summary().tables[1])  # Print just the coefficients table
 band_days = music.groupby(['Band_ID', 'Weekday']).size().reset_index(name='performances')
 top_band_days = band_days.sort_values('performances', ascending=False).head(15)
 print("\nMost Common Band-Day Combinations:")
+
 print(top_band_days)
