@@ -17,7 +17,7 @@ from sklearn.tree import DecisionTreeRegressor, plot_tree
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 from sklearn.preprocessing import StandardScaler
-import warnings
+import warnings 
 warnings.filterwarnings('ignore')
 
 plt.style.use('default')
