@@ -5,7 +5,7 @@ North Conway Weather Revenue Analysis
 Created on Sat Apr 12 18:59:35 2025
 """
 
-import pandas as pd
+import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
