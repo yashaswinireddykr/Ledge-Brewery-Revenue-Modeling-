@@ -20,7 +20,7 @@ music = music_raw.rename(columns={
     'Musical Arts.Genre/Description': 'Genre'
 })
 
-# Ensure consistent date formats
+# Ensure consistent date formats 
 transactions['Date'] = pd.to_datetime(transactions['Date'])
 
 # Calculate daily revenue
@@ -223,3 +223,4 @@ top_band_days = band_days.sort_values('performances', ascending=False).head(15)
 print("\nMost Common Band-Day Combinations:")
 
 print(top_band_days)
+
