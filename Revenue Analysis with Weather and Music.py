@@ -7,7 +7,7 @@ from scipy import stats
 
 # Import Required Libraries
 transactions = pd.read_excel("Transactions_Weather_Merged (1).xlsx")
-music = pd.read_excel("live-music-data-v1.xlsx") 
+music = pd.read_excel("live-music-data-v1.xlsx")  
 
 # Inspect Column Names
 print(transactions.columns)
@@ -202,4 +202,5 @@ print(interaction_model.summary())
 daily_revenue.to_csv('enhanced_revenue_analysis.csv', index=False)
 
 print("\nAnalysis complete. All visualizations have been saved and the enhanced dataset has been exported to 'enhanced_revenue_analysis.csv'")
+
 
