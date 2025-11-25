@@ -20,7 +20,7 @@ from sklearn.preprocessing import StandardScaler
 import warnings 
 warnings.filterwarnings('ignore')
 
-plt.style.use('default')
+plt.style.use('default') 
 sns.set_style("whitegrid")
 sns.set_palette("husl")
 
