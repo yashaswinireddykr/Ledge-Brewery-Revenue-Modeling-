@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 import statsmodels.api as sm
-from scipy import stats 
+from scipy import stats
 
 # Import Required Libraries
 transactions = pd.read_excel("Transactions_Weather_Merged (1).xlsx")
@@ -202,6 +202,7 @@ print(interaction_model.summary())
 daily_revenue.to_csv('enhanced_revenue_analysis.csv', index=False)
 
 print("\nAnalysis complete. All visualizations have been saved and the enhanced dataset has been exported to 'enhanced_revenue_analysis.csv'")
+
 
 
 
