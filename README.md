@@ -1,6 +1,6 @@
-# Ledge Brewery — Revenue Analytics
+# Ledge Brewery - Revenue Analytics
 
-# Pour Decisions: How Live Music and Weather Shape Brewery Revenue in New Hampshire
+# How Live Music and Weather Shape Brewery Revenue in New Hampshire
 
 *A comprehensive data analysis project examining the impact of live music events and weather conditions on craft brewery revenue using machine learning and statistical modeling.*
 
