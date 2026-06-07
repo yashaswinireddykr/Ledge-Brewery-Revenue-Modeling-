@@ -1,0 +1,8 @@
+*.xlsx
+*.csv
+!live-music-data-v1.xlsx
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv
+venv/
