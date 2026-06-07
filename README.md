@@ -1,4 +1,4 @@
-# Revenue-Analytics-for-Craft-Brewery
+# Ledge Brewery — Revenue Analytics
 
 # Pour Decisions: How Live Music and Weather Shape Brewery Revenue in New Hampshire
 
@@ -114,17 +114,17 @@ This project analyzes transaction records from Ledge Brewing Co., a craft brewer
 ```
 Revenue-Analytics-for-Brewery/
 ├── Transactions_Weather_Merged.xlsx
-├── Transactions_Weather_Merged (1).xlsx
+
 ├── Boston_hourly_weather.xlsx
 ├── df_hourly_north_conway.xlsx
 ├── live-music-data-v1.xlsx
 └── enhanced_revenue_analysis.xlsx
-├── North Conway Weather Revenue Analysis.py
-├── Boston Weather Revenue Analysis with Comprehensive Visualizations.py
-├── Comparative Analysis North Conway vs Boston Weather.py
-├── Final Comprehensive Weather Revenue Analysis.py
-├── Revenue Analysis with Music.py
-├── Revenue Analysis with Weather and Music.py
+├── NorthConway_Weather_Revenue_Analysis.py
+├── Boston_Weather_Revenue_Analysis.py
+├── Comparative_Weather_Analysis.py
+├── Final_Weather_Revenue_Analysis.py
+├── Revenue_Analysis_Music.py
+├── Revenue_Analysis_Weather_and_Music.py
 └── README.md
 ```
 
